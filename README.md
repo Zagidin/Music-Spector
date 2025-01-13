@@ -4,7 +4,7 @@
 
 ### Запуск 🚩
 
-```shell
+```bash
     python music_spector.py
 ```
 
